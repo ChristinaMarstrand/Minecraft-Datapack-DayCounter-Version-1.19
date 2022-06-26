@@ -1,0 +1,8 @@
+{
+    "values": [
+        "404sun.daycount:setup",
+        "404sun.daycount:initial",
+        "404sun.daycount:trigger_event",
+        "404sun.daycount:timer_1s"
+    ]
+}
